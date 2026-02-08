@@ -50,7 +50,7 @@ export default function OrientationGuard({
         </h2>
         <p className="text-gray-400 text-lg max-w-xs">
           переверни телефон боком, и{" "}
-          <b>магия начнётся ✨</b>.
+          <b>магия начнётся 💘</b>
         </p>
       </div>
     );
