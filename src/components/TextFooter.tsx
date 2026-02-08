@@ -11,16 +11,17 @@ export default function TextFooter() {
     <>
       {/* Left Text */}
       <h1
-  className={`absolute left-10 bottom-5 transform -translate-y-1/2 text-white text-4xl lg:text-5xl font-bold leading-tight ${playfairDisplay.className}`}
+  className={`absolute left-10 bottom-5 transform -translate-y-1/2 text-white text-3xl lg:text-4xl font-bold leading-tight ${playfairDisplay.className}`}
 >
-  <span className="text-gray-400">Собери</span> <br /> пары фото
+  <span className="text-gray-400">Собери</span> <br /> все пары фотографий
 </h1>
 
 <h1
-  className={`absolute right-10 bottom-5 transform -translate-y-1/2 text-white text-4xl lg:text-5xl font-bold leading-tight text-right ${playfairDisplay.className}`}
+  className={`absolute right-10 bottom-5 transform -translate-y-1/2 text-white text-3xl lg:text-4xl font-bold leading-tight text-right ${playfairDisplay.className}`}
 >
-  чтобы открыть <br /> <span className="text-gray-400">сюрприз 💝</span>
+  чтобы открыть <br /> <span className="text-gray-400">сюрприз для тебя 💝</span>
 </h1>
+
 
 
       {/* Copyright */}
