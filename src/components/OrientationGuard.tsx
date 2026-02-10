@@ -46,11 +46,11 @@ export default function OrientationGuard({
           </svg>
         </motion.div>
         <h2 className="text-3xl font-bold text-white mb-4">
-          Rotate your device
+          Жанм одна просьба
         </h2>
         <p className="text-gray-400 text-lg max-w-xs">
-          To be able to play correctly, you need to put your phone in{" "}
-          <b>landscape mode</b>.
+          Поверни телефон… Дальше тебя ждёт{" "}
+          <b>сюрприз ❤️</b>.
         </p>
       </div>
     );
